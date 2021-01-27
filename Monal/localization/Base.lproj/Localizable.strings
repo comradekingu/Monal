@@ -409,6 +409,6 @@
 "Automatically fetch previews of received links" = "Auto-fetch previews of received links";
 /* DEBUG - ContactDetails */
 "Clear omemo session" = "Clear OMEMO session";
-"Show URL previews" = "Show URL previews";
+"Show URL previews" = "URL previews";
 /* shareViewController: recipient */
 "Recipient" = "Recipient";
